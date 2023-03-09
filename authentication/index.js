@@ -1,0 +1,1 @@
+console.log("Ejemplo de index.js en authentication para la rama 'login'");
